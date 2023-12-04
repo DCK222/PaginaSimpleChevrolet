@@ -2,12 +2,12 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'app-pag1',
+  selector: 'app-cochesuno',
   standalone: true,
   imports: [CommonModule],
-  templateUrl: './pag1.component.html',
-  styleUrl: './pag1.component.css'
+  templateUrl: './cochesuno.component.html',
+  styleUrl: './cochesuno.component.css'
 })
-export class Pag1Component {
+export class CochesunoComponent {
 
 }
